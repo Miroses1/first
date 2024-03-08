@@ -3,29 +3,45 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
 img{
-	height: 150px;
+	width: 100px;
 	border-radius: 30%;
 	display: block;
 	margin: 10px auto;
 }
-
 header{
 	margin: 0;
 }
-
 h1{
-	background-color: #ee4422;
+	background-color: #99ccaa;
 	padding: 10px;
 	margin: 0px;
 	text-align: center;
 }
-
-p{
-	background-color: #11ccbb;
+h2{
+	background-color: #99ccaa;
+	padding: 10px;
+	margin: 0px;
 	text-align: center;
-	padding: 10px 20px;
-	border-radius:20px ;
-	margin-top: 10px;
+}
+h3{
+	color: purple;
+	margin: 15px auto;
+	padding: 0px;
+}
+p{
+	color: indianred;
+	margin-left: 10px;
+	text-align: justify;
+}
+li{
+	color:purple;
+	margin: 10px auto;
+	padding: 10px;
+}
+i{
+	color: indianred;
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
 }
